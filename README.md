@@ -1,16 +1,27 @@
-## Hi there 👋
+# Syeda Areej Fatima 👋
 
-<!--
-**velanora/velanora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- BS AI undergraduate at FAST NUCES 
+- Member of Kollab Research Lab  
+- Co-Lead – FAST Community Service Society 
+- Registered Volunteer – Shaukat Khanum  
 
-Here are some ideas to get you started:
+## Currently Working On
+- SSH & Cloud VM connections  
+- Arduino hardware projects  
+- Learning new technolgies in Colab  
+- Strengthening OOPs concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Linux terminal & Git workflows  
+- Python, Virtual Machines & SSH  
+- AWS fundamentals (workshop)
+
+## Skills
+C, C++, Python | Git, GitHub, Linux | Arduino & sensors
+
+## Reach Me
+- 📧 syd.areej911@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/syeda-areej-e-fatima/) 
+- 🌐 [Hugo site](https://velanora.github.io/)
+
+
