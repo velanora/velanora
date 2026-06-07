@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:8B5CF6,100:4C1D95&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=FFFFFF&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:1E1B4B&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=FFFFFF&fontAlignY=45)
 
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/syeda-areej-e-fatima/)
 [![Blogging site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=pink)](https://velanora.github.io/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:syd.areej911@gmail.com)
@@ -22,13 +23,18 @@ AI undergraduate at FAST NUCES with an interest in systems, embedded hardware, a
 
 ## Skills 
 ##  💻 ⚡ Languages
+
 <div align="center">
+
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
+
 </div>
 
 ## ⚙️ ⚡ Tools and Platforms
 <div align="center">
+
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,hugo)](https://skillicons.dev)
+
 </div>
 
 
@@ -37,7 +43,9 @@ AI undergraduate at FAST NUCES with an interest in systems, embedded hardware, a
 I document my learning journey and technical notes on my personal blog:
 
 <div align="center">
+
 🔗 https://velanora.github.io/
+
 </div>
 Topics include:
 
