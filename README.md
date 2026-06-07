@@ -24,15 +24,13 @@ AI undergraduate at FAST NUCES with an interest in systems, embedded hardware, a
 # Skills 
 
 <div align="center">
-##  💻 ⚡ Languages
 
+##  💻 ⚡ Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 
-</div>
 
-<div align="center">
+
 ## ⚙️ ⚡ Tools and Platforms
-
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,hugo)](https://skillicons.dev)
 
 </div>
