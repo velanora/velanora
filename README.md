@@ -10,8 +10,8 @@
 
 
 ---
-## ⚡ About Me
 
+# ⚡ About Me
 AI undergraduate at FAST NUCES with an interest in systems, embedded hardware, and cloud computing. I enjoy learning how software interacts with real-world systems and building practical projects.
 
 * 🔬 Member of Colab Research Lab
@@ -21,24 +21,24 @@ AI undergraduate at FAST NUCES with an interest in systems, embedded hardware, a
 ---
 
 
-## Skills 
-##  💻 ⚡ Languages
+# Skills 
 
 <div align="center">
+##  💻 ⚡ Languages
 
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 
 </div>
 
-## ⚙️ ⚡ Tools and Platforms
 <div align="center">
+## ⚙️ ⚡ Tools and Platforms
 
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,hugo)](https://skillicons.dev)
 
 </div>
 
 
-## 🌐 Blog & Writing
+# 🌐 Blog & Writing
 
 I document my learning journey and technical notes on my personal blog:
 
@@ -55,7 +55,7 @@ Topics include:
 * Technical learning reflections
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 * 🐧 Linux terminal & Git workflows
 * 🔐 SSH and Virtual Machines (basic understanding)
