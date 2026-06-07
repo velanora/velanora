@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=FFFFFF&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=color=0:8B5CF6,100:4C1D95&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=FFFFFF&fontAlignY=45)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=purple)](https://www.linkedin.com/in/syeda-areej-e-fatima/)
 [![Blogging site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=pink)](https://velanora.github.io/)
