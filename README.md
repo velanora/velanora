@@ -62,5 +62,5 @@ Topics include:
 
 # Github streaks
 ![](https://github-readme-stats.shion.dev/api?username=velanora&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=velanora&theme=gotham&hide_border=false)<br/>
+
 ---
