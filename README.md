@@ -60,7 +60,7 @@ Topics include:
 * 🐍 Python
 * ☁️ AWS fundamentals (workshops)
 
-
-
+# Github streaks
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
 
 ---
