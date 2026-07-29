@@ -61,6 +61,6 @@ Topics include:
 * ☁️ AWS fundamentals (workshops)
 
 # Github streaks
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=velanora&theme=radical)
 
 ---
