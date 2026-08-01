@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=gradient&color=1E3A8A&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=A78BFA&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0D4741,6A1B9A&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
+
 
 # 💫 About Me:
 👋 About Me<br><br>I’m an Artificial Intelligence undergraduate passionate about systems, Linux, robotics, cloud computing, and programming. I enjoy building practical projects, learning new technologies, and collaborating with others.<br><br>* 🔭 Currently working on: Hands-on programming projects.<br>* 🌱 Currently learning: Linux, Git workflows, SSH, virtual machines, Python, and AWS.<br>* 👯 Looking to collaborate on: AI, Linux, systems, robotics, and open-source projects.<br>* 📝 Writing about: Linux, programming, Git, virtual machines, and system concepts.<br>* 🎯 Community: Member of Colab Research Lab & Co-Leader at FAST Community Service Society.<br>* ⚡ Fun fact: My professors nicknamed me “Smiley Face”—and honestly, I couldn’t argue with it. 😊
@@ -8,7 +9,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areej._.spamm) 
-[![LinkedIn](https://img.shields.iov/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
 [![Blogging site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=pink)](https://velanora.github.io/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sydareej911)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syd.areej911@gmail.com) 
