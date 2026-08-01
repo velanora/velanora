@@ -18,6 +18,7 @@
 # 💻 Tech Stack:
 
 <div align="center">
+
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,latex,arduino)](https://skillicons.dev)
 
@@ -28,9 +29,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,bash)](https://skillicons.dev)
-[![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,latex,arduino)](https://skillicons.dev)
-
+![](https://github-readme-stats.shion.dev/api?username=velanora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=velanora&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
