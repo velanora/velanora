@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
 
 
 # 💫 About Me:
@@ -28,8 +28,8 @@
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api?username=velanora&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=velanora&theme=material-palenight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=velanora&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
