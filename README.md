@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45desc=programmer%20%7C%20Linux%20Enthusiast%20%7C%20Exploring%20Cloud%20Computing%2&Robotics&descSize=22&descColor=FFFFFF&descAlignY=65)
 
 
 # 💫 About Me:
