@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
 
 
 # 💫 About Me:
-👋 About Me<br><br>I’m an Artificial Intelligence undergraduate passionate about systems, Linux, robotics, cloud computing, and programming. I enjoy building practical projects, learning new technologies, and collaborating with others.<br><br>* 🔭 Currently working on: Hands-on programming projects.<br>* 🌱 Currently learning: Linux, Git workflows, SSH, virtual machines, Python, and AWS.<br>* 👯 Looking to collaborate on: AI, Linux, systems, robotics, and open-source projects.<br>* 📝 Writing about: Linux, programming, Git, virtual machines, and system concepts.<br>* 🎯 Community: Member of Colab Research Lab & Co-Leader at FAST Community Service Society.<br>* ⚡ Fun fact: My professors nicknamed me “Smiley Face”—and honestly, I couldn’t argue with it. 😊
+I’m an Artificial Intelligence undergraduate passionate about systems, Linux, robotics, cloud computing, and programming. I enjoy building practical projects, learning new technologies, and collaborating with others.<br><br>* 🔭 Currently working on: Hands-on programming projects.<br>* 🌱 Currently learning: Linux, Git workflows, SSH, virtual machines, Python, and AWS.<br>* 👯 Looking to collaborate on: AI, Linux, systems, robotics, and open-source projects.<br>* 📝 Writing about: Linux, programming, Git, virtual machines, and system concepts.<br>* 🎯 Community: Member of Colab Research Lab & Co-Leader at FAST Community Service Society.<br>* ⚡ Fun fact: My professors nicknamed me “Smiley Face”—and honestly, I couldn’t argue with it. 😊
 
 
 ## 🌐 Socials:
