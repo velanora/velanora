@@ -29,9 +29,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=velanora&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=velanora&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=velanora&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=velanora&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=discord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
