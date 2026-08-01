@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=C4B5FD&fontAlignY=45)
 
 
 # 💫 About Me:
@@ -27,9 +27,9 @@ I’m an Artificial Intelligence undergraduate passionate about systems, Linux, 
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=velanora&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=velanora&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=velanora&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=velanora&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=velanora&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
