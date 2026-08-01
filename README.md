@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0d1117,1a1f35,6e40c9&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&CustomColorList=20&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
 
 
 # 💫 About Me:
@@ -23,8 +23,6 @@
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,github,linux,latex,arduino)](https://skillicons.dev)
 
 </div>
-
-
 
 # 📊 GitHub Stats:
 <div align="center">
