@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=16&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=18&height=250&section=header&text=Syeda%20Areej%20E%20Fatima&fontSize=35&animation=fadeIn&fontColor=60A5FA&fontAlignY=45)
 
 
 # 💫 About Me:
