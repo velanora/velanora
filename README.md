@@ -9,10 +9,10 @@ I’m an Artificial Intelligence undergraduate passionate about systems, Linux, 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/areej._.spamm) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badgelogo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
 [![Blogging site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=pink)](https://velanora.github.io/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badgelogo=Pinterest&logoColor=white)](https://pinterest.com/sydareej911)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badgelogo=gmail&logoColor=white)](mailto:syd.areej911@gmail.com) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/sydareej911)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syd.areej911@gmail.com) 
 </div>
 
 # 💻 Tech Stack:
