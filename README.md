@@ -5,14 +5,14 @@
 I’m an Artificial Intelligence undergraduate passionate about systems, Linux, robotics, cloud computing, and programming. I enjoy building practical projects, learning new technologies, and collaborating with others.<br><br>* 🔭 Currently working on: Hands-on programming projects.<br>* 🌱 Currently learning: Linux, Git workflows, SSH, virtual machines, Python, and AWS.<br>* 👯 Looking to collaborate on: AI, Linux, systems, robotics, and open-source projects.<br>* 📝 Writing about: Linux, programming, Git, virtual machines, and system concepts.<br>* 🎯 Community: Member of Colab Research Lab & Co-Leader at FAST Community Service Society.<br>* ⚡ Fun fact: My professors nicknamed me “Smiley Face”—and honestly, I couldn’t argue with it. 😊
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/areej._.spamm) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/areej._.spamm) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badgelogo=linkedin&logoColor=white)](https://linkedin.com/in/syeda-areej-e-fatima) 
 [![Blogging site](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=pink)](https://velanora.github.io/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sydareej911)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syd.areej911@gmail.com) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badgelogo=Pinterest&logoColor=white)](https://pinterest.com/sydareej911)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badgelogo=gmail&logoColor=white)](mailto:syd.areej911@gmail.com) 
 </div>
 
 # 💻 Tech Stack:
